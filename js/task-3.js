@@ -66,7 +66,7 @@ console.log(
 //     name: "Blackburn Dotson",
 //     friends: ["Jacklyn Lucas", "Linda Chapman"],
 //     gender: "male"
-//   },
+//   },;
 //   {
 //     name: "Sheree Anthony",
 //     friends: ["Goldie Gentry", "Briana Decker"],
